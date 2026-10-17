@@ -1,0 +1,24 @@
+{
+  "title": "A little space to focus",
+  "description": "Ngày 01 · Đồ vật quanh bàn học & cách diễn tả thói quen",
+  "words": [
+    {"word":"desk","ipa":"/desk/","meaning":"bàn làm việc, bàn học","example":"I study at my desk every evening."},
+    {"word":"notebook","ipa":"/ˈnəʊtbʊk/","meaning":"quyển vở","example":"I write new words in my notebook."},
+    {"word":"lamp","ipa":"/læmp/","meaning":"đèn","example":"The lamp is on the desk."},
+    {"word":"shelf","ipa":"/ʃelf/","meaning":"kệ","example":"My books are on the shelf."},
+    {"word":"focus","ipa":"/ˈfəʊkəs/","meaning":"tập trung","example":"I focus on one task at a time."},
+    {"word":"practice","ipa":"/ˈpræktɪs/","meaning":"luyện tập","example":"She practices English every day."},
+    {"word":"habit","ipa":"/ˈhæbɪt/","meaning":"thói quen","example":"Reading is a good habit."},
+    {"word":"improve","ipa":"/ɪmˈpruːv/","meaning":"cải thiện","example":"I want to improve my English."}
+  ],
+  "grammar":{"title":"Present simple · Hiện tại đơn","body":"Dùng để nói về thói quen và sự thật. I/you/we/they + động từ nguyên mẫu. He/she/it + động từ thêm -s hoặc -es. Ví dụ: I study every day. She studies every day. Phủ định: I do not study at night. She does not study at night. Sau does/doesn't, động từ trở về nguyên mẫu."},
+  "questions":[
+    {"type":"choice","prompt":"She ___ English every day.","options":["practice","practices","practicing","to practice"],"answer":"practices","explanation":"She là ngôi thứ ba số ít. Ở hiện tại đơn, practice thêm -s thành practices."},
+    {"type":"write","prompt":"Viết từ tiếng Anh có nghĩa là “quyển vở”.","answer":"notebook","explanation":"Notebook là quyển vở. Ví dụ: I write new words in my notebook."},
+    {"type":"choice","prompt":"Chọn câu đúng.","options":["She doesn't studies at night.","She doesn't study at night.","She don't study at night."],"answer":"She doesn't study at night.","explanation":"She dùng doesn't. Sau doesn't, study giữ nguyên mẫu."},
+    {"type":"listen","prompt":"Nghe rồi viết lại câu bạn nghe được.","audio":"The lamp is on the desk.","answer":"The lamp is on the desk.","explanation":"The lamp is on the desk: Đèn ở trên bàn. On diễn tả vị trí trên bề mặt."},
+    {"type":"write","prompt":"Điền dạng đúng: He ___ (study) every evening.","answer":"studies","explanation":"Study kết thúc bằng phụ âm + y nên đổi y thành ies khi đi với he/she/it."},
+    {"type":"choice","prompt":"“Improve” có nghĩa là gì?","options":["ghi nhớ","cải thiện","thói quen","tập trung"],"answer":"cải thiện","explanation":"Improve là cải thiện. I want to improve my English: Tôi muốn cải thiện tiếng Anh."},
+    {"type":"listen","prompt":"Nghe và viết lại câu.","audio":"Reading is a good habit.","answer":"Reading is a good habit.","explanation":"Reading is a good habit: Đọc sách là một thói quen tốt."}
+  ]
+}

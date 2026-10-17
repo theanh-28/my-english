@@ -1,0 +1,1237 @@
+{
+  "title": "A little space to focus",
+  "description": "Ngày 01 · 20 từ về góc học tập và thói quen học tiếng Anh",
+  "words": [
+    {
+      "word": "desk",
+      "ipa": "/desk/",
+      "meaning": "bàn làm việc, bàn học",
+      "example": "I study at my desk every evening."
+    },
+    {
+      "word": "notebook",
+      "ipa": "/ˈnəʊtbʊk/",
+      "meaning": "quyển vở",
+      "example": "I write new words in my notebook."
+    },
+    {
+      "word": "lamp",
+      "ipa": "/læmp/",
+      "meaning": "đèn",
+      "example": "The lamp is on the desk."
+    },
+    {
+      "word": "shelf",
+      "ipa": "/ʃelf/",
+      "meaning": "kệ",
+      "example": "My books are on the shelf."
+    },
+    {
+      "word": "focus",
+      "ipa": "/ˈfəʊkəs/",
+      "meaning": "tập trung",
+      "example": "I focus on one task at a time."
+    },
+    {
+      "word": "practice",
+      "ipa": "/ˈpræktɪs/",
+      "meaning": "luyện tập",
+      "example": "She practices English every day."
+    },
+    {
+      "word": "habit",
+      "ipa": "/ˈhæbɪt/",
+      "meaning": "thói quen",
+      "example": "Reading is a good habit."
+    },
+    {
+      "word": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "meaning": "cải thiện",
+      "example": "I want to improve my English."
+    },
+    {
+      "word": "chair",
+      "ipa": "/tʃer/",
+      "meaning": "ghế",
+      "example": "I sit on a chair when I study."
+    },
+    {
+      "word": "keyboard",
+      "ipa": "/ˈkiːbɔːrd/",
+      "meaning": "bàn phím",
+      "example": "I type on my keyboard."
+    },
+    {
+      "word": "screen",
+      "ipa": "/skriːn/",
+      "meaning": "màn hình",
+      "example": "I read the question on the screen."
+    },
+    {
+      "word": "pencil",
+      "ipa": "/ˈpensəl/",
+      "meaning": "bút chì",
+      "example": "I draw with a pencil."
+    },
+    {
+      "word": "dictionary",
+      "ipa": "/ˈdɪkʃəneri/",
+      "meaning": "từ điển",
+      "example": "I use a dictionary to check new words."
+    },
+    {
+      "word": "lesson",
+      "ipa": "/ˈlesən/",
+      "meaning": "bài học",
+      "example": "This lesson has twenty new words."
+    },
+    {
+      "word": "question",
+      "ipa": "/ˈkwestʃən/",
+      "meaning": "câu hỏi",
+      "example": "I ask a question when I need help."
+    },
+    {
+      "word": "answer",
+      "ipa": "/ˈænsər/",
+      "meaning": "câu trả lời",
+      "example": "I write my answer in the notebook."
+    },
+    {
+      "word": "remember",
+      "ipa": "/rɪˈmembər/",
+      "meaning": "nhớ, ghi nhớ",
+      "example": "I remember this word."
+    },
+    {
+      "word": "review",
+      "ipa": "/rɪˈvjuː/",
+      "meaning": "ôn lại",
+      "example": "I review new words every morning."
+    },
+    {
+      "word": "listen",
+      "ipa": "/ˈlɪsən/",
+      "meaning": "lắng nghe",
+      "example": "I listen to English every day."
+    },
+    {
+      "word": "repeat",
+      "ipa": "/rɪˈpiːt/",
+      "meaning": "lặp lại, nhắc lại",
+      "example": "I repeat the sentence three times."
+    }
+  ],
+  "grammar": {
+    "title": "Present simple · Hiện tại đơn",
+    "body": "Học theo thứ tự: cách dùng → động từ thường → be → câu hỏi → luyện tập.",
+    "level": "A1–A2 · Có phần mở rộng",
+    "sections": [
+      {
+        "title": "Bản đồ bài học",
+        "items": [
+          "S = chủ ngữ; V = động từ nguyên mẫu.",
+          "Chọn nhánh: động từ thường (work, study) hoặc be (am/is/are). Không trộn hai công thức."
+        ]
+      },
+      {
+        "title": "Cách dùng",
+        "items": [
+          "Thói quen: I review words after lunch. — Tôi ôn từ sau bữa trưa.",
+          "Trạng thái hiện tại: She works in IT. — Cô ấy làm trong ngành IT.",
+          "Sự thật: Ice melts in heat. — Băng tan khi gặp nhiệt.",
+          "Lịch cố định: The meeting starts at ten. — Cuộc họp bắt đầu lúc mười giờ."
+        ]
+      },
+      {
+        "title": "Động từ thường",
+        "columns": [
+          "Dạng",
+          "I / You / We / They",
+          "He / She / It"
+        ],
+        "rows": [
+          [
+            "Khẳng định",
+            "S + V",
+            "S + V-s/es"
+          ],
+          [
+            "Phủ định",
+            "S + do not + V",
+            "S + does not + V"
+          ],
+          [
+            "Câu hỏi",
+            "Do + S + V?",
+            "Does + S + V?"
+          ],
+          [
+            "Trả lời ngắn",
+            "Yes, S + do. / No, S + don’t.",
+            "Yes, S + does. / No, S + doesn’t."
+          ]
+        ],
+        "hint": "S trong câu trả lời là đại từ: Does Mai code? → Yes, she does. Don’t = do not; doesn’t = does not."
+      },
+      {
+        "title": "Động từ be",
+        "columns": [
+          "Chủ ngữ",
+          "Khẳng định",
+          "Phủ định",
+          "Câu hỏi"
+        ],
+        "rows": [
+          [
+            "I",
+            "I am ready.",
+            "I am not ready.",
+            "Am I ready?"
+          ],
+          [
+            "He / She / It",
+            "She is ready.",
+            "She is not ready.",
+            "Is she ready?"
+          ],
+          [
+            "You / We / They",
+            "They are ready.",
+            "They are not ready.",
+            "Are they ready?"
+          ]
+        ],
+        "hint": "Không dùng do/does với be trong các câu này. Is she ready? → Yes, she is. / No, she isn’t."
+      },
+      {
+        "title": "Thêm s / es",
+        "columns": [
+          "Quy tắc",
+          "Ví dụ"
+        ],
+        "rows": [
+          [
+            "Thông thường thêm s",
+            "read → reads; play → plays"
+          ],
+          [
+            "Kết thúc -s, -ss, -sh, -ch, -x, -z: thường thêm es",
+            "pass → passes; wash → washes; fix → fixes"
+          ],
+          [
+            "Phụ âm + y → ies",
+            "study → studies"
+          ],
+          [
+            "Nguyên âm + y: thêm s",
+            "enjoy → enjoys"
+          ],
+          [
+            "Một số dạng cần nhớ",
+            "have → has; do → does; go → goes"
+          ]
+        ],
+        "hint": "Chỉ áp dụng đuôi này ở khẳng định ngôi thứ ba số ít. Sau does/doesn’t: dùng nguyên mẫu."
+      },
+      {
+        "title": "Câu hỏi với từ hỏi",
+        "examples": [
+          {
+            "en": "Where does your team work?",
+            "vi": "Đội của bạn làm việc ở đâu? Từ hỏi + does + chủ ngữ + V."
+          },
+          {
+            "en": "Who maintains this server?",
+            "vi": "Ai bảo trì máy chủ này? Who là chủ ngữ nên không thêm does."
+          }
+        ]
+      },
+      {
+        "title": "Tần suất và ngữ cảnh",
+        "items": [
+          "Usually/often/never thường đứng trước động từ thường: I often code.",
+          "Với be, thường đứng sau: She is often busy.",
+          "Every day / twice a week thường ở cuối câu. Không dùng từ khóa làm quy tắc tuyệt đối.",
+          "I code every day: thói quen. I am coding now: hoạt động đang diễn ra."
+        ],
+        "hint": "Know, like, want thường diễn tả trạng thái và dùng hiện tại đơn; một số động từ có nghĩa khác khi dùng dạng tiếp diễn."
+      },
+      {
+        "title": "Ví dụ Anh–Việt",
+        "examples": [
+          {
+            "en": "The application stores your settings.",
+            "vi": "Ứng dụng lưu các thiết lập của bạn."
+          },
+          {
+            "en": "We don’t deploy on Sundays.",
+            "vi": "Chúng tôi không triển khai vào Chủ nhật."
+          },
+          {
+            "en": "Does this function return a string?",
+            "vi": "Hàm này có trả về chuỗi không?"
+          },
+          {
+            "en": "The database is available.",
+            "vi": "Cơ sở dữ liệu đang sẵn sàng để truy cập."
+          }
+        ]
+      },
+      {
+        "title": "Lỗi cần tránh",
+        "contrast": {
+          "wrong": "She doesn’t studies English.",
+          "right": "She doesn’t study English."
+        },
+        "hint": "Không viết She is study… để diễn tả thói quen. Dùng She studies…; nếu đang diễn ra: She is studying…"
+      },
+      {
+        "title": "Mở rộng: chưa cần học thuộc ngay",
+        "items": [
+          "Mệnh đề thời gian nói về tương lai thường dùng hiện tại đơn: I’ll call when I finish.",
+          "Hiện tại đơn cũng xuất hiện trong tóm tắt truyện, bình luận trực tiếp và hướng dẫn. Học riêng theo ngữ cảnh."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "British Council · Present simple",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-simple"
+      },
+      {
+        "title": "British Council · A1–A2",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple"
+      },
+      {
+        "title": "EF · Simple present",
+        "url": "https://www.ef.com/wwen/english-resources/english-grammar/simple-present-tense/"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "She ___ English every day.",
+      "options": [
+        "practice",
+        "practices",
+        "practicing",
+        "to practice"
+      ],
+      "answer": "practices",
+      "explanation": "She là ngôi thứ ba số ít. Ở hiện tại đơn, practice thêm -s thành practices.",
+      "category": "grammar"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh có nghĩa là “quyển vở”.",
+      "answer": "notebook",
+      "explanation": "Notebook là quyển vở. Ví dụ: I write new words in my notebook.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chọn câu đúng.",
+      "options": [
+        "She doesn't studies at night.",
+        "She doesn't study at night.",
+        "She don't study at night."
+      ],
+      "answer": "She doesn't study at night.",
+      "explanation": "She dùng doesn't. Sau doesn't, study giữ nguyên mẫu.",
+      "category": "grammar"
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe rồi viết lại câu bạn nghe được.",
+      "audio": "The lamp is on the desk.",
+      "answer": "The lamp is on the desk.",
+      "explanation": "The lamp is on the desk: Đèn ở trên bàn. On diễn tả vị trí trên bề mặt.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Điền dạng đúng: He ___ (study) every evening.",
+      "answer": "studies",
+      "explanation": "Study kết thúc bằng phụ âm + y nên đổi y thành ies khi đi với he/she/it.",
+      "category": "grammar"
+    },
+    {
+      "type": "choice",
+      "prompt": "“Improve” có nghĩa là gì?",
+      "options": [
+        "ghi nhớ",
+        "cải thiện",
+        "thói quen",
+        "tập trung"
+      ],
+      "answer": "cải thiện",
+      "explanation": "Improve là cải thiện. I want to improve my English: Tôi muốn cải thiện tiếng Anh.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và viết lại câu.",
+      "audio": "Reading is a good habit.",
+      "answer": "Reading is a good habit.",
+      "explanation": "Reading is a good habit: Đọc sách là một thói quen tốt.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “bàn làm việc, bàn học”?",
+      "answer": "desk",
+      "explanation": "desk: bàn làm việc, bàn học. Ví dụ: I study at my desk every evening.",
+      "options": [
+        "desk",
+        "notebook",
+        "lamp",
+        "shelf"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: quyển vở.",
+      "answer": "notebook",
+      "explanation": "notebook: quyển vở. Ví dụ: I write new words in my notebook.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “đèn”?",
+      "answer": "lamp",
+      "explanation": "lamp: đèn. Ví dụ: The lamp is on the desk.",
+      "options": [
+        "notebook",
+        "shelf",
+        "lamp",
+        "desk"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: kệ.",
+      "answer": "shelf",
+      "explanation": "shelf: kệ. Ví dụ: My books are on the shelf.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “tập trung”?",
+      "answer": "focus",
+      "explanation": "focus: tập trung. Ví dụ: I focus on one task at a time.",
+      "options": [
+        "focus",
+        "desk",
+        "notebook",
+        "lamp"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: luyện tập.",
+      "answer": "practice",
+      "explanation": "practice: luyện tập. Ví dụ: She practices English every day.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “thói quen”?",
+      "answer": "habit",
+      "explanation": "habit: thói quen. Ví dụ: Reading is a good habit.",
+      "options": [
+        "notebook",
+        "lamp",
+        "habit",
+        "desk"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: cải thiện.",
+      "answer": "improve",
+      "explanation": "improve: cải thiện. Ví dụ: I want to improve my English.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “ghế”?",
+      "answer": "chair",
+      "explanation": "chair: ghế. Ví dụ: I sit on a chair when I study.",
+      "options": [
+        "chair",
+        "desk",
+        "notebook",
+        "lamp"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: bàn phím.",
+      "answer": "keyboard",
+      "explanation": "keyboard: bàn phím. Ví dụ: I type on my keyboard.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “màn hình”?",
+      "answer": "screen",
+      "explanation": "screen: màn hình. Ví dụ: I read the question on the screen.",
+      "options": [
+        "notebook",
+        "lamp",
+        "screen",
+        "desk"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: bút chì.",
+      "answer": "pencil",
+      "explanation": "pencil: bút chì. Ví dụ: I draw with a pencil.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “từ điển”?",
+      "answer": "dictionary",
+      "explanation": "dictionary: từ điển. Ví dụ: I use a dictionary to check new words.",
+      "options": [
+        "dictionary",
+        "desk",
+        "notebook",
+        "lamp"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: bài học.",
+      "answer": "lesson",
+      "explanation": "lesson: bài học. Ví dụ: This lesson has twenty new words.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “câu hỏi”?",
+      "answer": "question",
+      "explanation": "question: câu hỏi. Ví dụ: I ask a question when I need help.",
+      "options": [
+        "notebook",
+        "lamp",
+        "question",
+        "desk"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: câu trả lời.",
+      "answer": "answer",
+      "explanation": "answer: câu trả lời. Ví dụ: I write my answer in the notebook.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “nhớ, ghi nhớ”?",
+      "answer": "remember",
+      "explanation": "remember: nhớ, ghi nhớ. Ví dụ: I remember this word.",
+      "options": [
+        "remember",
+        "desk",
+        "notebook",
+        "lamp"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: ôn lại.",
+      "answer": "review",
+      "explanation": "review: ôn lại. Ví dụ: I review new words every morning.",
+      "category": "vocabulary"
+    },
+    {
+      "type": "choice",
+      "prompt": "Từ nào có nghĩa là “lắng nghe”?",
+      "answer": "listen",
+      "explanation": "listen: lắng nghe. Ví dụ: I listen to English every day.",
+      "options": [
+        "notebook",
+        "lamp",
+        "listen",
+        "desk"
+      ],
+      "category": "vocabulary"
+    },
+    {
+      "type": "write",
+      "prompt": "Viết từ tiếng Anh: lặp lại, nhắc lại.",
+      "answer": "repeat",
+      "explanation": "repeat: lặp lại, nhắc lại. Ví dụ: I repeat the sentence three times.",
+      "category": "vocabulary"
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: She ___ (study) English every evening.",
+      "answer": "studies",
+      "explanation": "She là ngôi thứ ba số ít. Phụ âm + y: đổi y thành ies. Câu đúng: She studies English every evening."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: He ___ (watch) TV after dinner.",
+      "answer": "watches",
+      "explanation": "He là ngôi thứ ba số ít. Động từ kết thúc bằng ch: thêm es. Câu đúng: He watches TV after dinner."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: My sister ___ (go) to school by bus.",
+      "answer": "goes",
+      "explanation": "My sister là ngôi thứ ba số ít. Go thêm es thành goes. Câu đúng: My sister goes to school by bus."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: Tom ___ (play) football on Sundays.",
+      "answer": "plays",
+      "explanation": "Tom là ngôi thứ ba số ít. Nguyên âm + y: giữ y và thêm s. Câu đúng: Tom plays football on Sundays."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: The teacher ___ (teach) English.",
+      "answer": "teaches",
+      "explanation": "The teacher là ngôi thứ ba số ít. Động từ kết thúc bằng ch: thêm es. Câu đúng: The teacher teaches English."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: My father ___ (work) in a hospital.",
+      "answer": "works",
+      "explanation": "My father là ngôi thứ ba số ít. Chủ ngữ số ít: thêm s. Câu đúng: My father works in a hospital."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: The bus ___ (stop) near my house.",
+      "answer": "stops",
+      "explanation": "The bus là ngôi thứ ba số ít. Chủ ngữ số ít: thêm s. Câu đúng: The bus stops near my house."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: She ___ (have) breakfast at seven.",
+      "answer": "has",
+      "explanation": "She là ngôi thứ ba số ít. Have đổi thành has với he/she/it. Câu đúng: She has breakfast at seven."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: He ___ (do) his homework after school.",
+      "answer": "does",
+      "explanation": "He là ngôi thứ ba số ít. Do đổi thành does với he/she/it. Câu đúng: He does his homework after school."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: My brother ___ (wash) the dishes.",
+      "answer": "washes",
+      "explanation": "My brother là ngôi thứ ba số ít. Động từ kết thúc bằng sh: thêm es. Câu đúng: My brother washes the dishes."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: Anna ___ (read) before bed.",
+      "answer": "reads",
+      "explanation": "Anna là ngôi thứ ba số ít. Chủ ngữ số ít: thêm s. Câu đúng: Anna reads before bed."
+    },
+    {
+      "category": "grammar",
+      "group": "Chia động từ",
+      "type": "write",
+      "prompt": "Điền dạng đúng: The baby ___ (cry) at night.",
+      "answer": "cries",
+      "explanation": "The baby là ngôi thứ ba số ít. Phụ âm + y: đổi y thành ies. Câu đúng: The baby cries at night."
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): I ___ like coffee.",
+      "answer": "do not",
+      "explanation": "Dùng do not với I. Sau trợ động từ, like giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): She ___ eat meat.",
+      "answer": "does not",
+      "explanation": "Dùng does not với She. Sau trợ động từ, eat giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): They ___ live here.",
+      "answer": "do not",
+      "explanation": "Dùng do not với They. Sau trợ động từ, live giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): He ___ drive to work.",
+      "answer": "does not",
+      "explanation": "Dùng does not với He. Sau trợ động từ, drive giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): We ___ study on Sundays.",
+      "answer": "do not",
+      "explanation": "Dùng do not với We. Sau trợ động từ, study giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): My mother ___ watch TV at night.",
+      "answer": "does not",
+      "explanation": "Dùng does not với My mother. Sau trợ động từ, watch giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): You ___ need a ticket.",
+      "answer": "do not",
+      "explanation": "Dùng do not với You. Sau trợ động từ, need giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): Tom ___ play tennis.",
+      "answer": "does not",
+      "explanation": "Dùng does not với Tom. Sau trợ động từ, play giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): The children ___ go to school on Sundays.",
+      "answer": "do not",
+      "explanation": "Dùng do not với The children. Sau trợ động từ, go giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): This shop ___ open on Mondays.",
+      "answer": "does not",
+      "explanation": "Dùng does not với This shop. Sau trợ động từ, open giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): My parents ___ work at night.",
+      "answer": "do not",
+      "explanation": "Dùng do not với My parents. Sau trợ động từ, work giữ nguyên mẫu.",
+      "accepted": [
+        "don’t",
+        "don't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu phủ định",
+      "type": "write",
+      "prompt": "Điền trợ động từ phủ định (dạng đầy đủ): The dog ___ sleep in the kitchen.",
+      "answer": "does not",
+      "explanation": "Dùng does not với The dog. Sau trợ động từ, sleep giữ nguyên mẫu.",
+      "accepted": [
+        "doesn’t",
+        "doesn't"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ you like music?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “you” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ she speak English?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “she” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ they work here?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “they” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ he play the guitar?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “he” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ your parents live nearby?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “your parents” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ your sister study French?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “your sister” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ we need a pen?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “we” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ the library open at nine?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “the library” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ these students read every day?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “these students” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ your father cook dinner?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “your father” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ the train stop here?",
+      "answer": "Does",
+      "explanation": "Chủ ngữ “the train” dùng does trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Câu hỏi",
+      "type": "choice",
+      "prompt": "Chọn trợ động từ: ___ I need a dictionary?",
+      "answer": "Do",
+      "explanation": "Chủ ngữ “I” dùng do trong câu hỏi hiện tại đơn. Động từ chính giữ nguyên mẫu.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): She don't like tea.",
+      "answer": "She doesn't like tea.",
+      "explanation": "She dùng doesn’t. Câu đúng: She doesn't like tea.",
+      "accepted": [
+        "She does not like tea.",
+        "She doesn't like tea."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): He doesn't plays football.",
+      "answer": "He doesn't play football.",
+      "explanation": "Sau doesn’t dùng play nguyên mẫu. Câu đúng: He doesn't play football.",
+      "accepted": [
+        "He does not play football.",
+        "He doesn't play football."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): Does she studies English?",
+      "answer": "Does she study English?",
+      "explanation": "Sau does dùng study nguyên mẫu. Câu đúng: Does she study English?",
+      "accepted": [
+        "Does she study English?",
+        "Does she study English?"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): They goes to school.",
+      "answer": "They go to school.",
+      "explanation": "They dùng động từ nguyên mẫu go. Câu đúng: They go to school.",
+      "accepted": [
+        "They go to school.",
+        "They go to school."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): My brother watch TV.",
+      "answer": "My brother watches TV.",
+      "explanation": "My brother là số ít; watch thêm es. Câu đúng: My brother watches TV.",
+      "accepted": [
+        "My brother watches TV.",
+        "My brother watches TV."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): I likes this book.",
+      "answer": "I like this book.",
+      "explanation": "I dùng like nguyên mẫu. Câu đúng: I like this book.",
+      "accepted": [
+        "I like this book.",
+        "I like this book."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): Do he work here?",
+      "answer": "Does he work here?",
+      "explanation": "He dùng does trong câu hỏi. Câu đúng: Does he work here?",
+      "accepted": [
+        "Does he work here?",
+        "Does he work here?"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): She have a notebook.",
+      "answer": "She has a notebook.",
+      "explanation": "Have đổi thành has với she. Câu đúng: She has a notebook.",
+      "accepted": [
+        "She has a notebook.",
+        "She has a notebook."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): We does not study at night.",
+      "answer": "We do not study at night.",
+      "explanation": "We dùng do not. Câu đúng: We do not study at night.",
+      "accepted": [
+        "We do not study at night.",
+        "We don't study at night."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): The baby cry every night.",
+      "answer": "The baby cries every night.",
+      "explanation": "Chủ ngữ số ít; cry đổi y thành ies. Câu đúng: The baby cries every night.",
+      "accepted": [
+        "The baby cries every night.",
+        "The baby cries every night."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): Does your parents live here?",
+      "answer": "Do your parents live here?",
+      "explanation": "Your parents là số nhiều; dùng do. Câu đúng: Do your parents live here?",
+      "accepted": [
+        "Do your parents live here?",
+        "Do your parents live here?"
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sửa lỗi",
+      "type": "write",
+      "prompt": "Viết lại cho đúng (chỉ sửa lỗi ngữ pháp): He go to work by bus.",
+      "answer": "He goes to work by bus.",
+      "explanation": "He dùng goes. Câu đúng: He goes to work by bus.",
+      "accepted": [
+        "He goes to work by bus.",
+        "He goes to work by bus."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): every day / I / English / study",
+      "answer": "I study English every day.",
+      "explanation": "Câu mẫu: I study English every day. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu.",
+      "accepted": [
+        "Every day, i study English."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): reads / she / every evening",
+      "answer": "She reads every evening.",
+      "explanation": "Câu mẫu: She reads every evening. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): do / live / where / you",
+      "answer": "Where do you live?",
+      "explanation": "Câu mẫu: Where do you live? Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): does / he / what / do",
+      "answer": "What does he do?",
+      "explanation": "Câu mẫu: What does he do? Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): not / we / do / work / on Sundays",
+      "answer": "We do not work on Sundays.",
+      "explanation": "Câu mẫu: We do not work on Sundays. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): at seven / gets up / she",
+      "answer": "She gets up at seven.",
+      "explanation": "Câu mẫu: She gets up at seven. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): English / does / speak / your brother",
+      "answer": "Does your brother speak English?",
+      "explanation": "Câu mẫu: Does your brother speak English? Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): they / after school / play / football",
+      "answer": "They play football after school.",
+      "explanation": "Câu mẫu: They play football after school. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): does / not / he / coffee / drink",
+      "answer": "He does not drink coffee.",
+      "explanation": "Câu mẫu: He does not drink coffee. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): you / do / when / study",
+      "answer": "When do you study?",
+      "explanation": "Câu mẫu: When do you study? Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): my mother / dinner / cooks / every day",
+      "answer": "My mother cooks dinner every day.",
+      "explanation": "Câu mẫu: My mother cooks dinner every day. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu.",
+      "accepted": [
+        "Every day, my mother cooks dinner."
+      ]
+    },
+    {
+      "category": "grammar",
+      "group": "Sắp xếp câu",
+      "type": "write",
+      "prompt": "Sắp xếp thành câu, bắt đầu bằng chủ ngữ (câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ): on Mondays / the shop / opens",
+      "answer": "The shop opens on Mondays.",
+      "explanation": "Câu mẫu: The shop opens on Mondays. Câu kể: chủ ngữ + động từ + phần còn lại. Câu hỏi: (từ hỏi) + do/does + chủ ngữ + động từ nguyên mẫu."
+    }
+  ]
+}
